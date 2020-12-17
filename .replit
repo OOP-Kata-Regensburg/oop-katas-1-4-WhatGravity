@@ -1,0 +1,3 @@
+run = "export CLASSPATH=\".:./lib/*\"; javac -d .  src/Tests/KataTest.java src/Kata.java; java KataTest java Kata"
+language = "java15"
+  
